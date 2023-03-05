@@ -51,3 +51,5 @@ ISPBOOOT.BIN will be placed at BUILDDIR/deploy/images/tppg2/emmc0/
 ## Maintainers
 
 * Elliot Anderson `<elliot at evil.corp>`
+
+Read [HOWTO.md](HOWTO.md) description to see how to adopt it.
