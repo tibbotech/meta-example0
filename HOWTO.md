@@ -7,8 +7,8 @@ image that fits your board peripherial and software requirements.
 
 1. Clone this repo
 
-2.0. Rename the folder name to "meta-[mycompany]-[prj0]".
-2.1. Search for string "example0" inside and fix the names accordinly.
+2. Rename the folder name to "meta-[mycompany]-[prj0]". 
+Search for string "example0" inside and fix the names accordinly.
 
 3. Create your own DTS for your board, place it to 
 recipes-kernel/linux/linux-sp-5.4/dts/
