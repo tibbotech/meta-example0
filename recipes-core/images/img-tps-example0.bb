@@ -27,4 +27,4 @@ IMAGE_INSTALL += "iproute2"
 
 IMAGE_INSTALL += "tps-dts"
 
-IMAGE_INSTALL += "ecorp-app0"
+#IMAGE_INSTALL += "ecorp-app0"
